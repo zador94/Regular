@@ -1,0 +1,15 @@
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\bin\Debug\net6.0\RegularWord.exe
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\bin\Debug\net6.0\RegularWord.deps.json
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\bin\Debug\net6.0\RegularWord.runtimeconfig.json
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\bin\Debug\net6.0\RegularWord.dll
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\bin\Debug\net6.0\RegularWord.pdb
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.csproj.AssemblyReference.cache
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.AssemblyInfoInputs.cache
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.AssemblyInfo.cs
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.csproj.CoreCompileInputs.cache
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.dll
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\refint\RegularWord.dll
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.pdb
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\RegularWord.genruntimeconfig.cache
+C:\Users\andru\RiderProjects\RegularWord\RegularWord\obj\Debug\net6.0\ref\RegularWord.dll
